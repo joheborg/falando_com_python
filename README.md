@@ -32,3 +32,6 @@ Para utilizar o conversor de texto para fala, siga os passos abaixo:
 
 Ao seguir esses passos, o texto inserido será convertido em fala e adicionado ao histórico para consulta futura.
 
+## Imagem do projeto
+
+![projeto_falando_com_python](https://github.com/user-attachments/assets/8a6757c4-bb12-4f06-a424-a2c8aa79d6a2)
